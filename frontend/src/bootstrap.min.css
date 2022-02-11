@@ -241,7 +241,7 @@ sup {
 }
 a {
   color: #78c2ad;
-  text-decoration: underline;
+  text-decoration: none;
 }
 a:hover {
   color: #609b8a;
@@ -4604,6 +4604,8 @@ fieldset:disabled .btn {
 .card-img-top {
   border-top-left-radius: calc(0.4rem - 1px);
   border-top-right-radius: calc(0.4rem - 1px);
+  border-bottom-right-radius: calc(0.4rem - 1px);
+  border-bottom-left-radius: calc(0.4rem - 1px);
 }
 .card-img,
 .card-img-bottom {
