@@ -1,0 +1,22 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "MERN shopping app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/666blessed/eshop.git"
+  },
+  "author": "Kirill Katkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/666blessed/eshop/issues"
+  },
+  "homepage": "https://github.com/666blessed/eshop#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
